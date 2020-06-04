@@ -1,0 +1,13 @@
+.relative_box {
+  float:left;
+  border-style: solid;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.relative_box p {
+  text-align: center;
+	background:#000;
+	color:#fff;
+	margin:0;
+}
