@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PoGo-BIU-QR-codes/static/css/main.9bc23433.chunk.css",
+    "main.js": "/PoGo-BIU-QR-codes/static/js/main.fa5b8806.chunk.js",
+    "main.js.map": "/PoGo-BIU-QR-codes/static/js/main.fa5b8806.chunk.js.map",
+    "runtime-main.js": "/PoGo-BIU-QR-codes/static/js/runtime-main.e274fa4d.js",
+    "runtime-main.js.map": "/PoGo-BIU-QR-codes/static/js/runtime-main.e274fa4d.js.map",
+    "static/js/2.66e998be.chunk.js": "/PoGo-BIU-QR-codes/static/js/2.66e998be.chunk.js",
+    "static/js/2.66e998be.chunk.js.map": "/PoGo-BIU-QR-codes/static/js/2.66e998be.chunk.js.map",
+    "index.html": "/PoGo-BIU-QR-codes/index.html",
+    "precache-manifest.17fc8793702756fc6b3a1c02fe1ba13d.js": "/PoGo-BIU-QR-codes/precache-manifest.17fc8793702756fc6b3a1c02fe1ba13d.js",
+    "service-worker.js": "/PoGo-BIU-QR-codes/service-worker.js",
+    "static/css/main.9bc23433.chunk.css.map": "/PoGo-BIU-QR-codes/static/css/main.9bc23433.chunk.css.map",
+    "static/js/2.66e998be.chunk.js.LICENSE.txt": "/PoGo-BIU-QR-codes/static/js/2.66e998be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e274fa4d.js",
+    "static/js/2.66e998be.chunk.js",
+    "static/css/main.9bc23433.chunk.css",
+    "static/js/main.fa5b8806.chunk.js"
+  ]
+}
