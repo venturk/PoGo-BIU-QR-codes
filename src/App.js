@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React from "react";
 import "./App.css";
 
 function App() {
@@ -8,11 +8,23 @@ function App() {
   return (
     <div className="App">
       {images.map((img, i) => (
-        <React.Fragment>
-          <div class="relative_box">
-            <p>{images[i].name.split(" ")[0]}</p>
-            <img src={images[i].src} />
-            <p>{images[i].name.split(" ")[1]}</p>
+        <React.Fragment key={i}>
+          <div className="relative_box">
+            <p>
+              <input
+                type="text"
+                value={images[i].name.split(" ")[0]}
+                readOnly
+              />
+            </p>
+            <img src={images[i].src} onClick={() => {navigator.clipboard.writeText(images[i].name.split(" ")[1].split("-").join(""))}} alt=""/>
+            <p>
+              <input
+                type="text"
+                value={images[i].name.split(" ")[1]}
+                readOnly
+              />
+            </p>
           </div>
         </React.Fragment>
       ))}
