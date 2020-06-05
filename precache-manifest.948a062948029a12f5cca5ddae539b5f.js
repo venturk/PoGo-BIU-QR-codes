@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a446e058d15e7a309e71b4fcd1a1697a",
+    "revision": "31d41e1100b2e700f6c7718589f709fd",
     "url": "/PoGo-BIU-QR-codes/index.html"
   },
   {
-    "revision": "36f0cac7a5296f699e34",
+    "revision": "b2284a2ae56c1db45d8a",
     "url": "/PoGo-BIU-QR-codes/static/css/main.58c9f6de.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PoGo-BIU-QR-codes/static/js/2.66e998be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36f0cac7a5296f699e34",
-    "url": "/PoGo-BIU-QR-codes/static/js/main.161316d8.chunk.js"
+    "revision": "b2284a2ae56c1db45d8a",
+    "url": "/PoGo-BIU-QR-codes/static/js/main.3bbe72d2.chunk.js"
   },
   {
     "revision": "3112ed747005a891e575",

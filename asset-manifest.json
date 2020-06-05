@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PoGo-BIU-QR-codes/static/css/main.58c9f6de.chunk.css",
-    "main.js": "/PoGo-BIU-QR-codes/static/js/main.161316d8.chunk.js",
-    "main.js.map": "/PoGo-BIU-QR-codes/static/js/main.161316d8.chunk.js.map",
+    "main.js": "/PoGo-BIU-QR-codes/static/js/main.3bbe72d2.chunk.js",
+    "main.js.map": "/PoGo-BIU-QR-codes/static/js/main.3bbe72d2.chunk.js.map",
     "runtime-main.js": "/PoGo-BIU-QR-codes/static/js/runtime-main.e274fa4d.js",
     "runtime-main.js.map": "/PoGo-BIU-QR-codes/static/js/runtime-main.e274fa4d.js.map",
     "static/js/2.66e998be.chunk.js": "/PoGo-BIU-QR-codes/static/js/2.66e998be.chunk.js",
     "static/js/2.66e998be.chunk.js.map": "/PoGo-BIU-QR-codes/static/js/2.66e998be.chunk.js.map",
     "index.html": "/PoGo-BIU-QR-codes/index.html",
-    "precache-manifest.4c537867dbbc20cf268410ec1fa9cb01.js": "/PoGo-BIU-QR-codes/precache-manifest.4c537867dbbc20cf268410ec1fa9cb01.js",
+    "precache-manifest.948a062948029a12f5cca5ddae539b5f.js": "/PoGo-BIU-QR-codes/precache-manifest.948a062948029a12f5cca5ddae539b5f.js",
     "service-worker.js": "/PoGo-BIU-QR-codes/service-worker.js",
     "static/css/main.58c9f6de.chunk.css.map": "/PoGo-BIU-QR-codes/static/css/main.58c9f6de.chunk.css.map",
     "static/js/2.66e998be.chunk.js.LICENSE.txt": "/PoGo-BIU-QR-codes/static/js/2.66e998be.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e274fa4d.js",
     "static/js/2.66e998be.chunk.js",
     "static/css/main.58c9f6de.chunk.css",
-    "static/js/main.161316d8.chunk.js"
+    "static/js/main.3bbe72d2.chunk.js"
   ]
 }

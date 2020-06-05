@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PoGo-BIU-QR-codes/precache-manifest.4c537867dbbc20cf268410ec1fa9cb01.js"
+  "/PoGo-BIU-QR-codes/precache-manifest.948a062948029a12f5cca5ddae539b5f.js"
 );
 
 self.addEventListener('message', (event) => {
